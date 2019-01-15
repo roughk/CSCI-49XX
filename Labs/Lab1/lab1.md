@@ -1,3 +1,5 @@
+Part C
+------
 Core Components of Open Source: https://opensource.org/osd
  - Source code accessable
  - Derivatives works must be equally accessable
@@ -13,3 +15,7 @@ Asking Smart Questions: http://www.catb.org/esr/faqs/smart-questions.html
  - 1
 
 
+
+Part D
+------
+Ubuntu Screenshot ![ubuntuss](Labs/Lab1/ubuntuss.png)
