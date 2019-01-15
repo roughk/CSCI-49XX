@@ -1,5 +1,5 @@
 ## Name: Kevin Roughan ( roughk) - 
-### email: roughkk@rpi.edu 
+### email: roughk@rpi.edu 
 ### office Streets of Troy, NY
 ### github account: roughk
 ### Mattermost handle: roughk
