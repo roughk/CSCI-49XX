@@ -3,4 +3,4 @@
 ### office Streets of Troy, NY
 ### github account: roughk
 ### Mattermost handle: roughk
-Photo of Moorthy ![roughk](images/roughk.jpg)
+Photo of Kevin![roughk](images/roughk.jpg)
