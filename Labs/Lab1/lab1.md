@@ -6,10 +6,10 @@ Core Components of Open Source: https://opensource.org/osd
  - Works cannot restrict other works packaged with it
 
 Asking Smart Questions: http://www.catb.org/esr/faqs/smart-questions.html
- - 
- - 
- - 
- - 
- - 
+ - 1
+ - 1
+ - 1
+ - 1
+ - 1
 
 
