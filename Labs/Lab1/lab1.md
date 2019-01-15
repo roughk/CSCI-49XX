@@ -18,4 +18,4 @@ Asking Smart Questions: http://www.catb.org/esr/faqs/smart-questions.html
 
 Part D
 ------
-Ubuntu Screenshot ![ubuntuss](Labs/Lab1/ubuntuss.png)
+Ubuntu Screenshot ![ubuntuss](Labs/Lab1/ubuntuss.jpg)
