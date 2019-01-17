@@ -19,7 +19,11 @@ Ubuntu Screenshot ![image](ubuntuss.PNG)
 Part E
 ------
 Regex Screenshot ![image](lab1_e.PNG)
+![image](lab1_e2.PNG)
 
 Part F
 ------
 Blockly Screenshot ![image](lab1_f.PNG)
+
+Part G
+------
