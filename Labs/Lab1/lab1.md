@@ -19,3 +19,7 @@ Asking Smart Questions: http://www.catb.org/esr/faqs/smart-questions.html
 Part D
 ------
 Ubuntu Screenshot ![image](ubuntuss.PNG)
+Part E
+------
+Regex Screenshot ![image](lab1_e.PNG)
+
