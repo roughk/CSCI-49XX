@@ -12,7 +12,14 @@ Asking Smart Questions: http://www.catb.org/esr/faqs/smart-questions.html
  - If you are just lost and need help, being very polite and appreciative can get you far enough to be able to ask useful questions.
 
 FREE CULTURE Chapter 3: http://www.free-culture.cc/freeculture.pdf
- - 77
+It's mindblowing how easily a company was able to hold a completely innocent person at legal gunpoint.
+He was just trying to create a service to benefit the school and its associates, but was instead punished
+for his creativity. The fact that he was accessing information that was already available to anyone on 
+the RPI network makes the situation particularly annoying. The RIAA asking for $100 billion dollars is
+comedic at best and insidious at worst. The value of every song multiplied by the number of people who 
+now had "easy accces" to it likely didn't reach a percent of a percent of the desired value. The line at 
+the end of "I think it's bizarre that they would pick on him" is hilariously ignorant. Morality does
+not exist for a business that seeks to strangle the life out of anyone who tries to innovate.
 
 Part D
 ------
