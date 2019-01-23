@@ -3,7 +3,7 @@ Part 2
 https://github.com/roughk/Spoon-Knife
 insert learn git here
 
-![image](MINGGWSS.PNG)
+![image](MINGWSS.PNG)
 ![image](labpart2.PNG)
 ![image](gitk.PNG)
 ![image](gitbranch.PNG)
