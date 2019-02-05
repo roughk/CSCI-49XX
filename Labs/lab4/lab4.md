@@ -58,7 +58,7 @@ protected and profitable.
 https://github.com/roughk/lab4_license
 
 
-9.Write five sentences about choosing a project to work on in this course.
+9. Write five sentences about choosing a project to work on in this course.
 ---
 I would want to work on a project that benefits the RPI community. The users would be
 RPI students, and potentially RPI staff or community members. Since the goal of such
@@ -72,11 +72,11 @@ benefit of all members of the community.
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-
-
-
-
+Catan AI | YES       | MIT License
+LATE     | YES       | MIT License
+schedj   | YES       | Apache License 2.0
+Automatic Door Control| YES | MIT License
+Red Army App | YES | MIT License
 
 
 
