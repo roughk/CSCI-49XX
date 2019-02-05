@@ -24,7 +24,7 @@ server software and other sections at a far greter and more reliable fashion tha
 So I agree with the claim that it was a failure to not utilzise the open systems model.
 
 
-5.Can you justify why such a license is chosen based on the history, goals and philosophy of the project? 
+5. Can you justify why such a license is chosen based on the history, goals and philosophy of the project? 
 ---
 If you are a for profit company that seeks to maintain their internal autonomy as well as preserve
 the assets for company personal projects, it makes sense to utilize a closed source license. SailfishOS
