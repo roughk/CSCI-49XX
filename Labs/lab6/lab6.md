@@ -1,6 +1,4 @@
-
-
-### Five Letter Results
+# Five Letter Results
 
 Shortest path between chaos and order is
 -
@@ -57,3 +55,13 @@ smart
 Shortest path between pound and marks is
 -
 None
+
+
+![image](length5.jpg)
+
+
+
+
+# Four Letter Results
+
+![image](4wordcode.jpg)
