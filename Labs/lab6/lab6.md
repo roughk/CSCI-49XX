@@ -99,3 +99,41 @@ zion
 
 
 
+# Five Letter Unordered Results
+
+Shortest path between chaos and order is
+-
+chaos,
+echos,
+chore,
+coder,
+order
+
+Shortest path between nodes and graph is
+-
+nodes,
+shoed,
+hades,
+heaps,
+phage,
+graph
+
+Shortest path between moron and smart is
+-
+moron,
+moors,
+morts,
+smart
+
+Shortest path between pound and marks is
+-
+pound,
+sound,
+modus,
+drums,
+mrads,
+marks
+
+
+
+
