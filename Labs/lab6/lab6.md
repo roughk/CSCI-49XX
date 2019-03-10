@@ -3,24 +3,24 @@
 ### Five Letter Results
 
 Shortest path between chaos and order is
----
-chaos
-chats
-coats
-colts
-colas
-codas
-codes
-coder
-cider
-eider
-elder
-older
+-
+chaos,
+chats,
+coats,
+colts,
+colas,
+codas,
+codes,
+coder,
+cider,
+eider,
+elder,
+older,
 order
 
 
 Shortest path between nodes and graph is
----
+-
 nodes,
 modes,
 moles,
@@ -30,11 +30,11 @@ goads,
 grads,
 grade,
 grape,
-graph,
+graph
 
 
 Shortest path between moron and smart is
----
+-
 moron,
 boron,
 baron,
@@ -51,9 +51,9 @@ bears,
 sears,
 stars,
 start,
-smart,
+smart
 
 
 Shortest path between pound and marks is
----
+-
 None
