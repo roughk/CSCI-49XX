@@ -64,4 +64,4 @@ None
 
 # Four Letter Results
 
-![image](4wordcode.jpg)
+![image](4wordcode.png)
