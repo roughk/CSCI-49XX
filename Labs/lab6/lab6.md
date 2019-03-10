@@ -65,3 +65,35 @@ None
 # Four Letter Results
 
 ![image](4wordcode.PNG)
+
+
+Shortest path between acid and back is
+-
+acid,
+arid,
+grid,
+grit,
+gait,
+bait,
+bart,
+bark,
+back
+
+
+Shortest path between awry and zion is
+-
+awry,
+away,
+sway,
+swan,
+sean,
+lean,
+leon,
+lion,
+zion
+
+
+
+
+
+![image](length4.jpg)
