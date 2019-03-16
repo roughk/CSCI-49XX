@@ -1,12 +1,12 @@
 #3
 
-![image](step3_1.PNG)
+![image](step3_1.JPG)
 
-![image](step3_2.PNG)
+![image](step3_2.JPG)
 
-![image](step3_3.PNG)
+![image](step3_3.JPG)
 
-![image](step3_4.PNG)
+![image](step3_4.JPG)
 
 #4
 
