@@ -3,8 +3,8 @@
 
 #Example 0
 
-![image](0.jgp)
+![image](0.JPG)
 
 #Example 1
 
-![image](1.jgp)
+![image](1.JPG)
