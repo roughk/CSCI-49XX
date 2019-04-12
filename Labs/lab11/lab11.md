@@ -15,14 +15,14 @@ check out check2.py for script run in python terminal
 
 ![image](check3_1.JPG)
 
-![image](a.JPG)
+![image](a.jpg)
 Prediction: "Ankle boot"
 wrong
 
-![image](b.JPG)
+![image](b.jpg)
 Prediction: "pullover"
 wrong again
 
-![image](c.JPG)
+![image](c.jpg)
 Prediction: "Trouser"
 Correct
