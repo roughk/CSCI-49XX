@@ -5,8 +5,12 @@ import tensorflow as tf
 from tensorflow import keras
 
 # Helper libraries
+from PIL import Image
+from PIL import ImageOps
 import numpy as np
 import matplotlib.pyplot as plt
+
+
 
 def plot_image(i, predictions_array, true_label, img):
   predictions_array, true_label, img = predictions_array[i], true_label[i], img[i]
@@ -60,8 +64,6 @@ train_images = train_images / 255.0
 
 test_images = test_images / 255.0
 
-
-
 model = keras.Sequential([
     keras.layers.Flatten(input_shape=(28, 28)),
     keras.layers.Dense(128, activation=tf.nn.relu),
@@ -77,9 +79,58 @@ test_loss, test_acc = model.evaluate(test_images, test_labels)
 
 print('Test accuracy:', test_acc)
 
-predictions = model.predict(test_images)
+
+
+'''
+
+a = Image.open('a.jpg')
+b = Image.open('b.jpg')
+c = Image.open('c.jpg')
+
+a = ImageOps.fit(a,(28,28),method=0,bleed=0.0, centering=(0.5,0.5))
+b = ImageOps.fit(b,(28,28),method=0,bleed=0.0, centering=(0.5,0.5))
+c = ImageOps.fit(c,(28,28),method=0,bleed=0.0, centering=(0.5,0.5))
+a = ImageOps.grayscale(a)
+b = ImageOps.grayscale(b)
+c = ImageOps.grayscale(c)
+a = ImageOps.invert(a)
+b = ImageOps.invert(b)
+c = ImageOps.invert(c)
+
+a.save("a_edit" +".jpg","JPEG")
+b.save("b_edit" +".jpg","JPEG")
+c.save("c_edit" +".jpg","JPEG")
+a = Image.open('a_edit.jpg')
+b = Image.open('b_edit.jpg')
+c = Image.open('c_edit.jpg')
+
+
+np_a = np.array(a)
+np_b = np.array(b)
+np_c = np.array(c)
+
+my_test_images = []
+my_test_images.append(np_a)
+my_test_images.append(np_b)
+my_test_images.append(np_c)
+
+my_test_images = np.array(my_test_images)
+
+predictions = model.predict(my_test_images)
 np.argmax(predictions[0])
 
+for i in range(0,3):
+    print("Image #", i)
+    print(predictions[i])
+    print(np.argmax(predictions[i]))
+    print(test_labels[i])
+    print(class_names[test_labels[i]])
+
+
+
+
+######
+#9000-9014
 
 # Plot the first X test images, their predicted label, and the true label
 # Color correct predictions in blue, incorrect predictions in red
@@ -93,3 +144,4 @@ for i in range(num_images):
   plt.subplot(num_rows, 2*num_cols, 2*i+2)
   plot_value_array(i+9000, predictions, test_labels)
 plt.show()
+'''
