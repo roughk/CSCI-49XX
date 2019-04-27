@@ -106,11 +106,12 @@ of use are key parts of a healthy project.
 
 # BLOG POSTS
  
-# WEEK of 3/25/19
-	So far noone has had any luck installing the back-end or the front-end.
-	
-
 # WEEK of 3/1/19
+	So far noone has had any luck installing the back-end or the front-end. The project has poor
+	documentation for installation, any instructions in the readme seem to not produce the result
+	it implies it would. The project lead assured it would work, but his instructions did not result
+	for anyone following them. Without this done, testing if the app works at all is impossible.
+	Clear and concise documentation is a must.
 	
 
 # WEEK of 4/8/19
